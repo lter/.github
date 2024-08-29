@@ -10,6 +10,6 @@ Any repository beginning with `lter-sparc-` was created for one of the SPARC (Sc
 
 We also make extensive use of GitHub's "[topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)" to make repositories in this organization more easily-findable by thematic group.  To find repositories in a given topic type the name of the topic you want to find into GitHub's search interface. If you're making a new repository please try to use existing topics before making new ones! Current topics include (in alphabetical order):
 
-`climhydro` \t `documentation` \t `education` \t `eml-metadata` \t `lter-imc` \t `lter-science` \t `lter-site-specific` \t `scientific-computing` \t `sparc-group` \t `synthesis-working-group`
+`climhydro` | `documentation` | `education` | `eml-metadata` | `lter-imc` | `lter-science` | `lter-site-specific` | `scientific-computing` | `sparc-group` | `synthesis-working-group`
 
 There is also an `inactive` topic that we recommend adding to repositories without activity in the last 5 years (or so).
