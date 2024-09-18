@@ -4,7 +4,7 @@ This GitHub organization was built to house GitHub repositories that span more t
 
 ### Repository Names
 
-Any repository beginning with `lter-sparc-` was created for one of the SPARC (Scientific Peers Advancing Research Collaborations) synthesis working groups funded by the LNO. Similarly, all repositories beginning with `lterwg-` are created for the 'full' synthesis working groups (funded for 2 years of meetings rather than 1 in the case of SPARC groups).
+All repositories beginning with `lterwg-` are created for the 'full' synthesis working groups (funded for 2 years of meetings by the LTER Network Office). Any repository beginning with `lter-sparc-` was created for one of the SPARC (Scientific Peers Advancing Research Collaborations) synthesis working groups for 1 meeting. Any repository beginning with `ssecr-` was created for a project team of LTER Synthesis Fellows as part of the SSECR course.
 
 ### GitHub "Topics"
 
