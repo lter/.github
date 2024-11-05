@@ -1,6 +1,6 @@
 ## About this GitHub Organization
 
-This GitHub organization was built to house GitHub repositories that span more than one site as well as provide a home for the scripted workflows created by the synthesis working groups funded by the LTER Network Office. Related repositories generally share a name prefix (e.g., `lterwg-...` are working group repositories, `ssecr-` are related to the [SSECR course](), etc.) but you can find a more in-depth index of repositories in the [organization index repository](https://github.com/lter/lter_github-index#readme).
+This GitHub organization was built to house GitHub repositories that span more than one site as well as provide a home for the scripted workflows created by the synthesis working groups funded by the LTER Network Office. Related repositories generally share a name prefix (e.g., `lterwg-...` are working group repositories, `ssecr-` are related to the [SSECR course](https://lter.github.io/ssecr/), etc.) but you can find a more in-depth index of repositories in the [organization index repository](https://github.com/lter/lter_github-index#readme).
 
 ### GitHub "Topics"
 
