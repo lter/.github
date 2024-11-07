@@ -6,10 +6,12 @@ This GitHub organization was built to house GitHub repositories that span more t
 
 Many LTER sites use their own GitHub Organizations to store code specific to their context. See below for links to many of these!
 
-| A - K | L - V |
-|:---|:---|
-| Arctic (ARC): [GitHub organization](https://github.com/LTER-ARC) | Luquillo (LUQ): [GitHub organization](https://github.com/LUQ-LTER) |
-| Central Arizona-Phoenix (CAP): [GitHub organization](https://github.com/CAPLTER) & [GitLab organization](https://gitlab.com/caplter) | Northeastern Shelf (NES): [GitHub wiki](https://github.com/WHOIGit/nes-lter-ims/wiki) |
-| Jornada Basin (JRN): [GitHub organization](https://github.com/jornada-im) | Palmer (PAL) [GitHub organization](https://github.com/pal-lter) | 
-| Kellogg Biological Station (KBS): [GitHub organization](https://github.com/kbs-lter) | Virginia Coast Reserve (VCR): [GitHub organization](https://github.com/VCR-LTER) |
-| Konza Prairie (KNZ): [GitHub 'user'](https://github.com/knzlter) | |
+- Arctic (ARC) GitHub: [LTER-ARC](https://github.com/LTER-ARC)
+- Central Arizona-Phoenix (CAP) GitHub: [CAPLTER](https://github.com/CAPLTER) & GitLab: [gitlab.com/caplter](https://gitlab.com/caplter)
+- Jornada Basin (JRN) GitHub: [jornada-im](https://github.com/jornada-im)
+- Kellogg Biological Station (KBS) GitHub: [kbs-lter](https://github.com/kbs-lter)
+- Konza Prairie (KNZ) GitHub: [knzlter](https://github.com/knzlter)
+- Luquillo (LUQ GitHub): [LUQ-LTER](https://github.com/LUQ-LTER)
+- Northeastern Shelf (NES) GitHub Wiki: [WHOIGit/nes-lter-ims/wiki](https://github.com/WHOIGit/nes-lter-ims/wiki)
+- Palmer (PAL) GitHub: [pal-lter](https://github.com/pal-lter)
+- Virginia Coast Reserve (VCR) GitHub: [VCR-LTER](https://github.com/VCR-LTER)
