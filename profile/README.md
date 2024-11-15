@@ -15,4 +15,5 @@ Many LTER sites use their own GitHub Organizations to store code specific to the
 - Luquillo (LUQ GitHub): [LUQ-LTER](https://github.com/LUQ-LTER)
 - Northeastern Shelf (NES) GitHub Wiki: [WHOIGit/nes-lter-ims/wiki](https://github.com/WHOIGit/nes-lter-ims/wiki)
 - Palmer (PAL) GitHub: [pal-lter](https://github.com/pal-lter)
+- Plum Island Ecosystems (PIE) GitHub: [PIE-LTER](https://github.com/PIE-LTER)
 - Virginia Coast Reserve (VCR) GitHub: [VCR-LTER](https://github.com/VCR-LTER)
