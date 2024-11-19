@@ -2,9 +2,9 @@
 
 This GitHub organization was built to house GitHub repositories that span more than one site as well as provide a home for the scripted workflows created by the synthesis working groups funded by the LTER Network Office. Related repositories share specific GitHub "topics" and--usually--share a prefix to the repository name. You can find a more in-depth index of repositories in the [organization index repository](https://github.com/lter/lter_github-index#readme).
 
-![NSF 2024 Award](https://img.shields.io/badge/NSF-241938-blue.svg)
-![NSF 2019 Award](https://img.shields.io/badge/NSF-1929393-orange.svg)
-![NSF 2015 Award](https://img.shields.io/badge/NSF-1545288-orange.svg)
+![NSF 2024 Award](https://img.shields.io/badge/NSF%202024-241938-blue.svg)
+![NSF 2019 Award](https://img.shields.io/badge/NSF%202019-1929393-orange.svg)
+![NSF 2015 Award](https://img.shields.io/badge/NSF%202015-1545288-orange.svg)
 
 ### Site Organizations
 
