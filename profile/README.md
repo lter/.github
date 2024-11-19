@@ -13,7 +13,7 @@ Many LTER sites use their own GitHub Organizations to store code specific to the
 - Kellogg Biological Station (KBS) GitHub: [KBS-LTER](https://github.com/kbs-lter)
 - Konza Prairie (KNZ) GitHub: [KNZLTER](https://github.com/knzlter)
 - Luquillo (LUQ) GitHub: [LUQ-LTER](https://github.com/LUQ-LTER)
-- Minneapolis-St. Paul (MSP): [MSP-LTER](https://github.com/MSP-LTER)
+- Minneapolis-St. Paul (MSP) GitHub: [MSP-LTER](https://github.com/MSP-LTER)
 - Northeastern Shelf (NES) GitHub Wiki: [WHOIGit/nes-lter-ims/wiki](https://github.com/WHOIGit/nes-lter-ims/wiki)
 - Palmer (PAL) GitHub: [PAL-LTER](https://github.com/pal-lter)
 - Plum Island Ecosystems (PIE) GitHub: [PIE-LTER](https://github.com/PIE-LTER)
