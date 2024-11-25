@@ -18,6 +18,7 @@ Many LTER sites use their own GitHub Organizations to store code specific to the
 - Konza Prairie (KNZ) GitHub: [KNZLTER](https://github.com/knzlter)
 - Luquillo (LUQ) GitHub: [LUQ-LTER](https://github.com/LUQ-LTER)
 - Minneapolis-St. Paul (MSP) GitHub: [MSP-LTER](https://github.com/MSP-LTER)
+- Niwot Ridge (NWT) GitHub: [NWTLTER](https://github.com/NWTlter)
 - Northeastern Shelf (NES) GitHub Wiki: [WHOIGit/nes-lter-ims/wiki](https://github.com/WHOIGit/nes-lter-ims/wiki)
 - Palmer (PAL) GitHub: [PAL-LTER](https://github.com/pal-lter)
 - Plum Island Ecosystems (PIE) GitHub: [PIE-LTER](https://github.com/PIE-LTER)
