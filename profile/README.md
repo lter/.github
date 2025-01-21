@@ -15,6 +15,7 @@ Many LTER sites use their own GitHub Organizations to store code specific to the
 - Arctic (ARC) GitHub: [LTER-ARC](https://github.com/LTER-ARC)
 - Beaufort Lagoon Ecosystems (BLE) Github: [BLE-LTER](https://github.com/BLE-LTER)
 - Central Arizona-Phoenix (CAP) GitHub: [CAPLTER](https://github.com/CAPLTER) & GitLab: [gitlab.com/caplter](https://gitlab.com/caplter)
+- Hubbard Brook (HBR) GitHub: [HBR-LTER](https://github.com/HBR-LTER)
 - Jornada Basin (JRN) GitHub: [jornada-im](https://github.com/jornada-im)
 - Kellogg Biological Station (KBS) GitHub: [KBS-LTER](https://github.com/kbs-lter)
 - Konza Prairie (KNZ) GitHub: [KNZLTER](https://github.com/knzlter)
